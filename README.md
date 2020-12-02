@@ -36,6 +36,7 @@ Hay varias iniciativas de la liga para potenciar a los clubes. Entre ellas:
 - Inventar una nueva iniciativa, pero que disminuya la cantidad de hinchas. Pista/restricción: se debe utilizar composición.
 
 **Se pide:**
+
 a) Dado dos clubes y una iniciativa, implementar la función que permita obtener el nombre del club que quedaría con más hinchas luego de implementar la iniciativa. 
 
 b) Dado un club y varias iniciativas a analizar, implementar la función que permita obtener la cantidad máxima de hinchas que podría tener aplicando individualmente alguna de las iniciativas. 
