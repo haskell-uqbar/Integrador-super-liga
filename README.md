@@ -19,13 +19,15 @@ Algunos clubes
 - velez - bsas - 5.
 - lanus - bsas - 10.
 
-Tienen mucha plata: boca, racing, velez y nob.*
+Tienen mucha plata: boca, racing, velez y nob.
 
-1) Obtener a los clubes populares, que son aquellos que sin ser considerados grandes, tienen más hinchas que alguno de los grandes y también los que siendo considerados grandes realmente tienen más hinchas que todos los que no lo son.
+### Clubes populares
+Obtener a los clubes populares, que son aquellos que sin ser considerados grandes, tienen más hinchas que alguno de los grandes y también los que siendo considerados grandes realmente tienen más hinchas que todos los que no lo son.
 
 En el ejemplo, son populares central, nob y lanus, (por tener mas hinchas que velez). Boca y racing también. Velez no (porque hay otros equipos de los chicos que lo superan)
 
-2) Hay varias iniciativas de la liga para potenciar a los clubes. Entre ellas:
+### Potenciar hinchadas
+Hay varias iniciativas de la liga para potenciar a los clubes. Entre ellas:
 	
 - Campaña publicitaria: aumenta en un 5% la cantidad de hinchas de un club
 - Mudar de ciudad al club: el club se muda a la nueva ciudad y aumenta la cantidad de hinchas en un % igual a la cantidad de letras del nombre de la nueva ciudad.
@@ -33,10 +35,13 @@ En el ejemplo, son populares central, nob y lanus, (por tener mas hinchas que ve
 - Recibir apoyo de otro club: el club original suma como propios a los hinchas del otro club.
 - Inventar una nueva iniciativa, pero que disminuya la cantidad de hinchas. Pista/restricción: se debe utilizar composición.
 
-a) Dado dos clubes y una iniciativa, obtener el nombre del club que quedaría con más hinchas luego de implementar la iniciativa. 
+**Se pide:**
+a) Dado dos clubes y una iniciativa, implementar la función que permita obtener el nombre del club que quedaría con más hinchas luego de implementar la iniciativa. 
 
-b) Dado un club y varias iniciativas a analizar, obtener la cantidad máxima de hinchas que podría tener aplicando alguna de las iniciativas. Hacer el siguiente ejemplo:
+b) Dado un club y varias iniciativas a analizar, implementar la función que permita obtener la cantidad máxima de hinchas que podría tener aplicando individualmente alguna de las iniciativas. 
 
-_Si boca analiza las iniciativas: compaña publicitaria, mudarse a rosario, mudarse a jujuy, recibir el apoyo de velez, tirar 3 granos de maíz y una iniciativa inventada, lo máximo que podría tener es 107 hinchas (por mudarse a rosario)_
+c) Mostrar ejemplos de consulta de las funciones anteiores, entre ellos el siguiente:
 
-c) Justificar la utilización de orden superior en la solución.
+* _Si boca analiza las iniciativas: compaña publicitaria, mudarse a rosario, mudarse a jujuy, recibir el apoyo de velez, tirar 3 granos de maíz y una iniciativa inventada, lo máximo que podría tener es 107 hinchas (por mudarse a rosario)_
+
+d) Justificar la utilización de orden superior en la solución.
