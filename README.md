@@ -37,12 +37,14 @@ Hay varias iniciativas de la liga para potenciar a los clubes. Entre ellas:
 
 **Se pide:**
 
-a) Dado dos clubes y una iniciativa, implementar la función que permita obtener el nombre del club que quedaría con más hinchas luego de implementar la iniciativa. 
+a) Implementar las formas de potenciar las hinchadas
 
-b) Dado un club y varias iniciativas a analizar, implementar la función que permita obtener la cantidad máxima de hinchas que podría tener aplicando individualmente alguna de las iniciativas. 
+b) Dado dos clubes y una iniciativa, implementar la función que permita obtener el nombre del club que quedaría con más hinchas luego de implementar la iniciativa. 
 
-c) Mostrar ejemplos de consulta de las funciones anteiores, entre ellos el siguiente:
+c) Dado un club y varias iniciativas a analizar, implementar la función que permita obtener la cantidad máxima de hinchas que podría tener aplicando individualmente alguna de las iniciativas. 
+
+d) Mostrar ejemplos de consulta de las funciones anteiores, entre ellos el siguiente:
 
 * _Si boca analiza las iniciativas: compaña publicitaria, mudarse a rosario, mudarse a jujuy, recibir el apoyo de velez, tirar 3 granos de maíz y una iniciativa inventada, lo máximo que podría tener es 107 hinchas (por mudarse a rosario)_
 
-d) Justificar la utilización de orden superior en la solución.
+e) Justificar la utilización de orden superior en la solución.
