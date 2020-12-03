@@ -15,7 +15,7 @@ racing :: Equipo
 racing = UnEquipo "racing" "bsas" 80 False
 
 nob :: Equipo
-nob = UnEquipo "nob" "rosario" 50   False
+nob = UnEquipo "nob" "rosario" 50  True
 
 godoy :: Equipo
 godoy = UnEquipo "godoy" "mendoza" 5 False
