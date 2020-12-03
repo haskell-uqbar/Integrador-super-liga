@@ -153,7 +153,7 @@ UnEquipo {nombre = "velez", ciudad = "bsas", hinchas = 55.0, plata = True}
 105.0 
 
 *Main> cantidadMaxDeHinchas boca [campaniaPublicitaria, mudarse "rosario", mudarse "jujuy", recibirApoyo velez, tirarMaiz 3, inventada]
-UnEquipo {nombre = "boca", ciudad = "bsas", hinchas = 100.7, plata = True}
+107.0
 -}
 
 -- e ----------------------------------------------------------------------------------
